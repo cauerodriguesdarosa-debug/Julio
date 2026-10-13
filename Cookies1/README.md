@@ -1,0 +1,2 @@
+# Cookies
+exemplo de cookies
